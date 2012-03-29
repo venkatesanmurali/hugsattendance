@@ -1,0 +1,33 @@
+
+development:
+    key: 279975168745946
+    secret: aa25d13a31d3b58134f31e201dd0c4d8
+    canvas_path: /yourAppName/
+    callback_path: /path/to/your/callback/
+    tunnel:
+      username: yourLoginName
+      host: www.yourexternaldomain.com
+      port: 1234
+      local_port: 5678
+
+test:
+    key: 279975168745946
+    secret: aa25d13a31d3b58134f31e201dd0c4d8
+    canvas_path: /yourAppName/
+    callback_path: /path/to/your/callback/
+    tunnel:
+      username: yourLoginName
+      host: www.yourexternaldomain.com
+      port: 1234
+      local_port: 5678
+
+production:
+    key: 279975168745946
+    secret: aa25d13a31d3b58134f31e201dd0c4d8
+    canvas_path: /yourAppName/
+    callback_path: /path/to/your/callback/
+    tunnel:
+      username: yourLoginName
+      host: www.yourexternaldomain.com
+      port: 1234
+      local_port: 5678
